@@ -88,3 +88,8 @@ button:hover {
     grid-gap: 20px;
     padding: 20px;
 }
+
+.footer {
+    color: #eaeaea;
+    padding: 20px 0 5px 20px;
+}
